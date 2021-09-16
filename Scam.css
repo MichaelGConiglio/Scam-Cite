@@ -1,0 +1,24 @@
+body {
+  background-color: #DFCFBE
+}
+h1 {
+  font-family: monospace;
+  font-size: 30px;
+  color: #D65076;
+  font: italic;
+}
+
+p {
+font-family: monospace;
+font-size: 20px;
+color: #D65076;
+}
+
+input {
+  background-color: #A9A31F;
+  font-size: 15px;
+  font-family: cursive;
+}
+input:hover{
+  background-color: yellow;
+}
